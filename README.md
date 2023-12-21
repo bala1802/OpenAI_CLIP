@@ -17,7 +17,7 @@ Read Paper: https://arxiv.org/pdf/2103.00020.pdf
 
 ## Text Encoder
 
-- The _distilbert-base-uncased_ encoder model for embedding the texts.
+- The _distilbert-base-uncased_ encoder model for embedding the texts
 - The resulting text encoder embedding dimension will be of shape - `(batch_size, text_embedding)` -> `(32, 768)`
 
 ## Image Encoder
@@ -29,6 +29,8 @@ Read Paper: https://arxiv.org/pdf/2103.00020.pdf
 
 The Projection Head serves a crucial role in shaping the representations learned by the model.
 
-- 
+- Responsbile for reducing the dimensionality of the high-dimensional embeddings produced by the `image encoder` and `text encoder`
+- Projecting the embeddings into a lower dimensional space, the model can focus on the most relevant features for the contrastive learning task
+- Enhances the discriminative power of the learned representations, helping the model distinguish between positive and negative pairs more effectively during the constrastive learning process.
 
 
