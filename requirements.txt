@@ -1,0 +1,16 @@
+torch
+timm
+transformers
+pandas
+numpy
+requests
+Pillow
+matplotlib
+matplotlib-inline
+
+torch-lr-finder
+torchdata
+torchinfo
+torchmetrics
+torchtext
+torchvision
