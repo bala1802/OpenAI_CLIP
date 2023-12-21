@@ -33,4 +33,10 @@ The Projection Head serves a crucial role in shaping the representations learned
 - Projecting the embeddings into a lower dimensional space, the model can focus on the most relevant features for the contrastive learning task
 - Enhances the discriminative power of the learned representations, helping the model distinguish between positive and negative pairs more effectively during the constrastive learning process.
 
+# Results:
+
+Prompt: "people sitting near the beach"
+
+<img width="1241" alt="image" src="https://github.com/bala1802/OpenAI_CLIP/assets/22103095/9d460363-e9dc-4326-96c3-dd921f1fa124">
+
 
