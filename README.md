@@ -35,8 +35,17 @@ The Projection Head serves a crucial role in shaping the representations learned
 
 # Results:
 
-Prompt: "people sitting near the beach"
+Try CLIP Demo in HuggingFace Spaces: https://huggingface.co/spaces/bala1802/clip_demo
+
+- Prompt: "people sitting near the beach"
 
 <img width="1241" alt="image" src="https://github.com/bala1802/OpenAI_CLIP/assets/22103095/9d460363-e9dc-4326-96c3-dd921f1fa124">
 
 
+- Prompt: "people walking inside the forest"
+
+<img width="1241" alt="image" src="https://github.com/bala1802/OpenAI_CLIP/assets/22103095/a47142d3-ca95-404a-9817-6a0299b910ed">
+
+- Prompt: "playing soccer"
+
+<img width="1241" alt="image" src="https://github.com/bala1802/OpenAI_CLIP/assets/22103095/45db5041-dc78-4b89-950c-e4c1af5a52f5">
